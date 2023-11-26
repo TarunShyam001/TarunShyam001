@@ -37,8 +37,8 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="80px" width="90px"/> </a> 
 </p>
 
-<p>
-<img align="center" alt="Anime" width="100%" src="https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849641470-JKHB2TRUIY3H0L01ACHS/33ae06d2f4f62bf0710791d257bd302f.gif">
+<p align="center">
+<img width="60%" src="https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849641470-JKHB2TRUIY3H0L01ACHS/33ae06d2f4f62bf0710791d257bd302f.gif">
 </p>
 
 <h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/3721/3721812.png" width="25px" height="25px"> Github Stats </h2>

@@ -19,10 +19,10 @@
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="https://linkedin.com/in/tarun shyam nit ap" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" alt="tarun shyam nit ap" height="80px" width="90px"/></a>
-<a href="https://fb.com/kumar deep" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="kumar deep" height="80px" width="90px" /></a>
-<a href="https://instagram.com/sym deep" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/06/15/12/17/instagram-6338401_1280.png" alt="sym deep" height="80px" width="90px" /></a>
-<a href="https://www.leetcode.com/tarunsym" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="tarunsym" height="80px" width="90px" /></a>
+<a href="https://linkedin.com/in/tarun-shyam-nit-ap-bb2134216/" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" alt="tarun shyam nit ap" height="80px" width="90px"/></a>
+<a href="https://fb.com/tarun.shyam.12/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="kumar deep" height="80px" width="90px" /></a>
+<a href="https://instagram.com/sym_deep/" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/06/15/12/17/instagram-6338401_1280.png" alt="sym deep" height="80px" width="90px" /></a>
+<a href="https://www.leetcode.com/Tarunsym/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="tarunsym" height="80px" width="90px" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tarunshyam001" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210511160813/g4g.jpg" alt="tarunshyam001" height="80px" width="90px" /></a>
 </p>
 

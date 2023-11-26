@@ -38,7 +38,7 @@
 </p>
 
 <p>
-<img align="center" alt="Anime" width="70%" src="https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849641470-JKHB2TRUIY3H0L01ACHS/33ae06d2f4f62bf0710791d257bd302f.gif">
+<img align="center" alt="Anime" width="100%" src="https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1630849641470-JKHB2TRUIY3H0L01ACHS/33ae06d2f4f62bf0710791d257bd302f.gif">
 </p>
 
 <h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/3721/3721812.png" width="25px" height="25px"> Github Stats </h2>

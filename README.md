@@ -13,28 +13,30 @@
 
 - 📫 How to reach me **shyamtarun2001@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1--_jjgWglNxDSSxlZZNUGwbxK_NSXcA-/view?usp=drive_link)
+- 📄 Know about my experiences from [here](https://drive.google.com/file/d/1--_jjgWglNxDSSxlZZNUGwbxK_NSXcA-/view?usp=drive_link)
 
 - ⚡ Fun fact **We can grow taller in space.**
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center"> 🌐 Connect with me </h2>
 <p align="center">
-<a href="https://linkedin.com/in/tarun-shyam-nit-ap-bb2134216/" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" alt="tarun shyam nit ap" height="80px" width="90px"/></a>
-<a href="https://fb.com/tarun.shyam.12/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="kumar deep" height="80px" width="90px" /></a>
-<a href="https://instagram.com/sym_deep/" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/06/15/12/17/instagram-6338401_1280.png" alt="sym deep" height="80px" width="90px" /></a>
-<a href="https://www.leetcode.com/Tarunsym/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="tarunsym" height="80px" width="90px" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tarunshyam001" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210511160813/g4g.jpg" alt="tarunshyam001" height="80px" width="90px" /></a>
+<a href="https://linkedin.com/in/tarun-shyam-nit-ap-bb2134216/" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" alt="tarun shyam nit ap" height="60px" width="70px"/></a>
+<a href="https://fb.com/tarun.shyam.12/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="kumar deep" height="60px" width="70px" /></a>
+<a href="https://instagram.com/sym_deep/" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/06/15/12/17/instagram-6338401_1280.png" alt="sym deep" height="60px" width="70px" /></a>
+<a href="https://www.t.me/tarun_shyam_001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="tarunshyam" height="60px" width="70px" /></a>
+<a href="https://www.leetcode.com/Tarunsym/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="tarunsym" height="60px" width="70px" /></a>
+<a href="https://auth.geeksforgeeks.org/user/tarunshyam001" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210511160813/g4g.jpg" alt="tarunshyam001" height="60px" width="70px" /></a>
 </p>
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center"> 💻 Tech Stack </h2>
 <p align="center"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="cplusplus" height="80px" width="90px"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="python" height="80px" width="120px"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" alt="mysql" height="80px" width="90px"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" height="80px" width="90px"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css3" height="80px" width="90px"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" height="80px" width="90px"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="80px" width="90px"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="cplusplus" height="60px" width="70px"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="python" height=height="60px" width="90px"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" alt="mysql" height="60px" width="70px"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" height="60px" width="70px"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css3" height="60px" width="70px"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" height="60px" width="70px"/> </a> 
+<a href="https://www.3ds.com/products-services/catia/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/CATIA_Logotype_RGB_Blue.png" alt=catia_v5" height="60px" width="110px"/> </a> 
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="60px" width="70px"/> </a> 
 </p>
 
 <p align="center">

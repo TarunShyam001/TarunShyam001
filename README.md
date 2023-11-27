@@ -57,3 +57,9 @@
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunshyam001" alt="tarunshyam001" /></a> 
 </p>
+
+<h2 align="center"> 😂 Random Dev Memes </h2>
+<p align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</p>
+

@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences from [here](https://drive.google.com/file/d/1--_jjgWglNxDSSxlZZNUGwbxK_NSXcA-/view?usp=drive_link)
 
-- ⚡ Fun fact **We can grow taller in space.**
+- ⚡ Fun fact **Mount Everest isn't the tallest mountain 🏔 on Earth.**
 
 <h2 align="center"> 🌐 Connect with me </h2>
 <p align="center">
